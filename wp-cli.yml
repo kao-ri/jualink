@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@jualink.vccw.test:
+  ssh: vagrant:jualink.vccw.test:/var/www/html
